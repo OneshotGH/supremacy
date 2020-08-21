@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "supremacy_csgo", "supremacy_csgo.vcxproj", "{099DE97A-54D6-47DE-A760-7CA4184D45DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		ReleaseEx|x86 = ReleaseEx|x86
+		Ship|x86 = Ship|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{099DE97A-54D6-47DE-A760-7CA4184D45DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{099DE97A-54D6-47DE-A760-7CA4184D45DB}.Debug|x86.Build.0 = Debug|Win32
+		{099DE97A-54D6-47DE-A760-7CA4184D45DB}.Release|x86.ActiveCfg = Release|Win32
+		{099DE97A-54D6-47DE-A760-7CA4184D45DB}.Release|x86.Build.0 = Release|Win32
+		{099DE97A-54D6-47DE-A760-7CA4184D45DB}.ReleaseEx|x86.ActiveCfg = ReleaseEx|Win32
+		{099DE97A-54D6-47DE-A760-7CA4184D45DB}.ReleaseEx|x86.Build.0 = ReleaseEx|Win32
+		{099DE97A-54D6-47DE-A760-7CA4184D45DB}.Ship|x86.ActiveCfg = Ship|Win32
+		{099DE97A-54D6-47DE-A760-7CA4184D45DB}.Ship|x86.Build.0 = Ship|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71ECA2B7-8E22-4B22-979F-4CD4CC90DD55}
+	EndGlobalSection
+EndGlobal
