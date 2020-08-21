@@ -8,4 +8,4 @@ Another thing is, people were literally trying to sell this source, and sell che
 
 NOTE: Compile in Release x86 -- some morons need this information.
 
-The cheat was mainly composed of paying skeet users to dump the cheat modules, and then reversing the cheat(skeet), and implementing it into Supremacy. The menu was design to make esoterik mad, and ultimately ending up cracking the cheat due to lack of modern security.
+The cheat was mainly composed of getting skeet users to dump the cheat modules, and then reversing the cheat(skeet), and implementing their functions into Supremacy. The menu was designed to make esoterik mad, and ultimately ending up cracking the cheat due to lack of modern security.
