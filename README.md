@@ -5,3 +5,5 @@ Since the source has been going around awhile, and people thinking they're cool 
 It's 90% a skeet paste, and the source should be good for people to learn from.
 
 Another thing is, people were literally trying to sell this source, and sell cheats based from this. If you do that, you're basically scamming people, don't do that, thanks.
+
+NOTE: Compile in Release x86 -- some morons need this information.
