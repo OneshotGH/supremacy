@@ -1,4 +1,7 @@
 # supremacy
+
+## this is a fork of the original supremecy that accidently got forked when i made a comment on it and I dont have anything to do with this source except it got forked / Oneshot
+
 Supremacy Counter-Strike: Global Offensive cheat, by https://interwebz.cc/. Good for learning, everything is commented. Open Source.
 
 Since the source has been going around awhile, and people thinking they're cool because they have this source I decieded to release it.
